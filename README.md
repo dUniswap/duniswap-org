@@ -1,6 +1,6 @@
-# uniswap-org
+# duniswap-org
 
-Contains the source code for the [uniswap.org](https://uniswap.org) homepage.
+Contains the source code for the [duniswap.org](https://duniswap.org) homepage.
 
 ## Development
 
